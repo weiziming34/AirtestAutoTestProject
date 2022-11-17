@@ -1,0 +1,2 @@
+15:05:03 (0, <test_dailyRcmd.musicTest2 testMethod=test_1_intoDailyRcmd>, "成功进入路由2：am start -a android.intent.action.VIEW -d 'orpheus://songrcmd'\n", '')
+15:05:31 (0, <test_dailyRcmd.musicTest2 testMethod=test_2_checkDailyRcmd>, '开始校验-每日推荐页面\n进对应播放页成功\n', '')

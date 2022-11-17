@@ -1,0 +1,4 @@
+15:46:13 (0, <test_dailyRcmd.musicTest2 testMethod=test_1_intoDailyRcmd>, "成功进入路由2：am start -a android.intent.action.VIEW -d 'orpheus://songrcmd'\n", '')
+15:46:41 (0, <test_dailyRcmd.musicTest2 testMethod=test_2_checkDailyRcmd>, '开始校验-每日推荐页面\n存在推荐歌曲信息\n进对应播放页成功:OOP!\n', '')
+15:47:10 (0, <test_music_app.musicTest testMethod=test_1_intoPrivate_FM>, "成功进入路由2：am start -a android.intent.action.VIEW -d 'orpheus://privatefm'\n", '')
+15:47:31 (0, <test_music_app.musicTest testMethod=test_2_checkPrivate_FM>, '私人FM页面存在-评论区\n私人FM页面评论区存在-推荐tab\n私人FM页面评论区存在-最热tab\n私人FM页面评论区存在-最新tab\n\n存在评论条\n发送评论成功\n存在分享按钮\n可正常打开分享浮层\n', '')
